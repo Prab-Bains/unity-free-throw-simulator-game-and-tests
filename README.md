@@ -67,3 +67,13 @@ A basketball free throw game with dynamic shot timing mechanics, built to demons
 - **Difficulty modifiers** - Test shot success with defensive pressure simulation
 - **CI/CD integration** - Automated test runs on every commit
 - **Physics based shot mechanics** - Transition from a timing based shooting outcome, to an outcome that depends on angle, velocity and trajectory
+
+## Gallery
+### Gameplay
+![Gameplay Gif](Screenshots/gameplay.gif)
+
+### Edit Mode Tests
+![Edit Mode Tests Screenshot](Screenshots/EditModeTests.gif)
+
+### Play Mode Tests
+![Play Mode Tests Screenshot](Screenshots/PlayModeTests.gif)

@@ -73,7 +73,7 @@ A basketball free throw game with dynamic shot timing mechanics, built to demons
 ![Gameplay Gif](Screenshots/gameplay.gif)
 
 ### Edit Mode Tests
-![Edit Mode Tests Screenshot](Screenshots/EditModeTests.gif)
+![Edit Mode Tests Screenshot](Screenshots/EditModeTests.png)
 
 ### Play Mode Tests
-![Play Mode Tests Screenshot](Screenshots/PlayModeTests.gif)
+![Play Mode Tests Screenshot](Screenshots/PlayModeTests.png)

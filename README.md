@@ -25,7 +25,7 @@ A basketball free throw game with dynamic shot timing mechanics, built to demons
 - [x] Missed shots only increment attempts
 - [x] Display format shows "X/Y" correctly
 
-### Probability Distribution Tests (`ProbabilityTests.cs`)
+### Probability Distribution Tests (`ShotProbabilityTests.cs`)
 - [x] Green zone: 100% make rate validation
 - [x] Red zone: 0% make rate validation
 - [x] Zone boundary detection accuracy
